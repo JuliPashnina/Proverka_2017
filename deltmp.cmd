@@ -1,0 +1,1 @@
+del *.~* *.obj *.tds _QSQL*.dbf
